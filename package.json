@@ -1,0 +1,21 @@
+{
+  "name": "webpack-examples",
+  "version": "1.0.0",
+  "description": "examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackout314/webpack-examples.git"
+  },
+  "author": "carlo denaro",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/blackout314/webpack-examples/issues"
+  },
+  "homepage": "https://github.com/blackout314/webpack-examples",
+  "devDependencies": {
+  }
+}
